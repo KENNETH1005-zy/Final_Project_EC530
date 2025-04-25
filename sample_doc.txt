@@ -1,0 +1,3 @@
+This is a sample document.
+It has a few sentences that the analyzer can summarize.
+Feel free to write anything here!
