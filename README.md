@@ -1,4 +1,4 @@
-# Final_Project_EC530
+# AI-Powered Educational Content Generator
 
 **Document Analyzer for Teachers**  
 A Python/Redis/SQLite application that uses an LLM to automatically generate teaching materials (summaries, key points, quizzes), provide feedback, and assign grades to arbitrary text documents.
